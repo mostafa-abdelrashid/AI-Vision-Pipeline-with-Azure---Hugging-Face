@@ -24,7 +24,7 @@ Image → Vision API → Text Generation → Style Transformation → Translatio
 markdown
 Copy code
 
-![Pipeline Diagram](assets/assets/app_diagram.png)
+![Pipeline Diagram](app/Gradio_web_UI_1.png)
 
 ## Features
 - **Image Understanding** – extract semantic information from uploaded images  
