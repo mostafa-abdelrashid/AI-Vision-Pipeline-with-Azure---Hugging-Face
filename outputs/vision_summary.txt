@@ -1,0 +1,9 @@
+caption = "A man pointing at a screen."
+tags = ["text", "clothing", "person", "display device", "indoor", "wall", 
+        "media", "television set", "led-backlit lcd display", "flat panel display", 
+        "furniture", "lcd tv", "man", "television", "video", "multimedia", 
+        "output device", "computer monitor", "table", "screen", "standing", "design"]
+
+summary = ("The image shows a man standing indoors, pointing at a screen. "
+           "The setting includes various display devices such as TVs and monitors. "
+           "It appears to be a multimedia or presentation environment.")

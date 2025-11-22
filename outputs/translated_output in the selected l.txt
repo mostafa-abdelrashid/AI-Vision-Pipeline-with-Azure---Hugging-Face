@@ -1,0 +1,35 @@
+translated_output in the selected language eg (fr):
+
+Voici le paragraphe réécrit dans un style poétique arabe élégant et métaphorique :
+
+**في ظلمة الدّيجور، ورائيّةً نيران الشّاشة،**
+**يَهْوِي بالإصبعِ سَيْفًا على حشودِ البيان.**
+**ثيابُهُ رَثَّةٌ، تحكي ليلًا طَويلاً،**
+**صَرَعَ فيهِ الأرقام، يُصارِعُ العِصْيان.**
+
+**في صفحةِ الزُّجاجِ، سَديمٌ من المعاني،**
+**يَنْبِضُ بالحياة، سِرًّا دفينًا خفيّان.**
+**نصرٌ مُبينٌ، أو هزيمةٌ مُرَّةٌ،**
+**والرَّجُلُ المُضْنَى، يُريدُ الفَكَّ قبلَ الفَجْرِ عِيان.**
+
+Voici un aperçu des choix stylistiques :
+
+* **Vocabulaire classique :** Des mots comme « الدّيجور » (obscurité), « ورائيّةً » (derrière, silhouette), « يَهْوِي » (descend avec force), « العِصْيان » (rébellion), « سَديم » (nébuleuse), « مُضْنَى » (fatigué), « عيان » (évident) évoquent un sentiment de gravité et d’intemporalité.
+* **Langage métaphorique :**
+    * « الإصبعِ سَيْفًا » (doigt comme une épée) - Souligne l’intention concentrée, presque agressive, de l’homme.
+    * « حشودِ البيان » (hordes de données) - Présente les données comme une force puissante et écrasante.
+    * « سَديمٌ من المعاني » (nébuleuse des significations) - Transforme la visualisation des données en un phénomène céleste et mystérieux.
+    * « صَرَعَ فيهِ الأرقام، يُصارِعُ العِصْيان » (Il a vaincu les effectifs et a combattu la rébellion) - Donne un sentiment de bataille et de difficulté.
+
+* **Structure rythmique :** Les vers sont structurés avec un rythme équilibré, visant une ambiance similaire à la poésie arabe classique. Les lignes courtes et ponctuées et les rimes puissantes créent un effet mémorable et évocateur. Bien qu’il ne respecte pas strictement un mètre poétique spécifique (bahr), le son est destiné à plaire à l’oreille arabe.
+
+* **Imagerie :** Les descriptions visuelles sont vivantes :
+    * Le contraste entre l’obscurité et la lumière de l’écran.
+    * Les vêtements froissés racontent une histoire de lutte sans sommeil.
+    * La nébuleuse pulsante représentant les données complexes.
+
+* **Concentrez-vous sur l’émotion :** Le ton met en avant le dévouement, la lassitude et la détermination sans faille de l’homme.
+
+Cette version vise à capturer *l’essence* du style poétique arabe, en privilégiant la beauté, la métaphore et l’impact émotionnel plutôt que l’adhésion stricte à chaque règle de la prosodie classique. L’objectif est d’élever le paragraphe original à un niveau plus artistique et percutant.
+
+
