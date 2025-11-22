@@ -1,6 +1,6 @@
 # AI-Image-to-Story-Pipeline
 
-![Pipeline Diagram](assets/app_diagram.png)
+![Pipeline Diagram](app/Gradio_web_UI_1.png)
 
 ## Overview
 The **AI-Image-to-Story Pipeline** is an end-to-end system that transforms an input image into a creatively generated, styled, and translated story, displayed via a web interface. This project demonstrates the integration of vision AI, natural language generation, style transfer, translation, and interactive deployment with Gradio.
@@ -24,7 +24,7 @@ Image → Vision API → Text Generation → Style Transformation → Translatio
 markdown
 Copy code
 
-![Pipeline Diagram](app/Gradio_web_UI_1.png)
+![Pipeline Diagram](assets/app_diagram.png)
 
 ## Features
 - **Image Understanding** – extract semantic information from uploaded images  
