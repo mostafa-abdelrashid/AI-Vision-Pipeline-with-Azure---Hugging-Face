@@ -33,26 +33,6 @@ Copy code
 - **Multilingual Output** – translate stories into multiple languages  
 - **Web Interface Demo** – deploy and interact with the pipeline via Gradio  
 
-## Project Structure
-AI-Image-to-Story-Pipeline/
-│
-├── README.md
-├── assets/
-│ ├── sample_image.jpg
-│ └── pipeline_diagram.png
-│
-├── outputs/
-│ ├── vision_summary.txt
-│ ├── creative_generation.txt
-│ ├── styled_output.txt
-│ ├── translated_output.txt
-│ └── gradio_interface_screenshot.png
-│
-└── app/
-└── gradio_app_preview.png
-
-markdown
-Copy code
 
 ## Screenshots & Sample Outputs
 - **Vision API Summary:** `outputs/vision_summary.txt`  
